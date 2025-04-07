@@ -21,7 +21,7 @@ Lưu trữ code OI (Olympiad in Informatics) của những cuộc thi:
 
 ## **🤝 Đóng góp**
 
-- Nếu bạn muốn đóng góp, hãy fork repo, tạo một nhánh mới và gửi pull request, và có message là "Toi yeu Urara Shiraishi".
+- Nếu bạn muốn đóng góp, hãy fork repo, tạo một nhánh mới và gửi pull request, và có message là "Toi yeu Megumi Katou".
 - Các bài tôi đã làm ở [đây](https://oichecklist.pythonanywhere.com/view/17e7a79f7802bf6bd025f3b4ae9af0899d697f0d).
 
 ## **📜 License**
