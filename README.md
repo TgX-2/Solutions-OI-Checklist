@@ -6,6 +6,7 @@ Lưu trữ code OI (Olympiad in Informatics) của những cuộc thi:
 * **BOI** - Baltic Olympiad in Informatics
 * **CEOI** - Central-European Olympiad in Informatics
 * **COI** - Croatian Olympiad in Informatics
+* **COCI** - Croatian Open Competition in Informatics
 * **JOI** *(Spring Camp, Open Contest, Final Round)* - Japanese Olympiad in Informatics
 * **IZhOI** - International Zhautykov Olympiad in Informatics
 
