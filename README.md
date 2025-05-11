@@ -7,6 +7,7 @@ Lưu trữ code OI (Olympiad in Informatics) của những cuộc thi:
 * **CEOI** - Central-European Olympiad in Informatics
 * **COI** - Croatian Olympiad in Informatics
 * **JOI** *(Spring Camp, Open Contest, Final Round)* - Japanese Olympiad in Informatics
+* **IZhOI** - International Zhautykov Olympiad in Informatics
 
 ## **📌 Mô tả**
 
